@@ -13,6 +13,6 @@ Durante o desenvolvimento, utilizamos conceitos como encapsulamento, construtore
 Resultado do código
 <img width="340" height="571" alt="image" src="https://github.com/user-attachments/assets/b36bb11e-91df-4abc-ad9f-ffe9c8587bfa" />
 
-Ayrton Gabriel da Silva Carvalho
-Análise e desenvolvimento de sistemas
+Ayrton Gabriel da Silva Carvalho/
+Análise e desenvolvimento de sistemas/
 cayrton01@gamilcom
